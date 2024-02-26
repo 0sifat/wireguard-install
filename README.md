@@ -32,7 +32,7 @@ Supported distributions:
 Download and execute the script. Answer the questions asked by the script and it will take care of the rest.
 
 ```bash
-curl -O https://raw.githubusercontent.com/angristan/wireguard-install/master/wireguard-install.sh
+git clone https://github.com/0sifat/wireguard-install.git
 chmod +x wireguard-install.sh
 ./wireguard-install.sh
 ```
@@ -44,6 +44,5 @@ Run the script again to add or remove clients!
 
 ## Contributing
 
-
-Please open an issue before submitting a PR if you want to discuss a change, especially if it's a big one.
+Lage be na 
 
